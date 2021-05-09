@@ -22,3 +22,5 @@ class Solution{
             System.out.println();
         }
         in.close();
+    }
+}
