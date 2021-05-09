@@ -20,3 +20,5 @@ class Solution{
                 System.out.printf("%s ",c);
             }
             System.out.println();
+        }
+        in.close();
