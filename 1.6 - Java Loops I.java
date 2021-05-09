@@ -9,3 +9,5 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+public class Solution {
+    private static final Scanner scanner = new Scanner(System.in);
