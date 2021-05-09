@@ -16,3 +16,5 @@ class Solution{
             int c = a;
             for(int j=0;j<n;j++)
             {
+                c += Math.pow(2,j)*b;
+                System.out.printf("%s ",c);
