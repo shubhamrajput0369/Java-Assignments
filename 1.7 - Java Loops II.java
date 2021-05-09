@@ -18,3 +18,5 @@ class Solution{
             {
                 c += Math.pow(2,j)*b;
                 System.out.printf("%s ",c);
+            }
+            System.out.println();
