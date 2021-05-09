@@ -14,3 +14,5 @@ class Solution{
             int b = in.nextInt();
             int n = in.nextInt();
             int c = a;
+            for(int j=0;j<n;j++)
+            {
