@@ -12,3 +12,5 @@ class Solution{
         for(int i=0;i<t;i++){
             int a = in.nextInt();
             int b = in.nextInt();
+            int n = in.nextInt();
+            int c = a;
